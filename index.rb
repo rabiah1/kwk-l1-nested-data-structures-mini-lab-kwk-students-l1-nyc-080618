@@ -10,7 +10,7 @@ def sandwich_request(ingredients, order)
   # your code here!
   
   sandwich_request.each do |ingredients|
-    puts "#{ingredients}"
+    puts "#{ingredients}."
   
 end
 
