@@ -9,7 +9,8 @@ ingredients = [
 def sandwich_request(ingredients, order) 
   # your code here!
   
- puts ingredients [3][0], [2][2], [0][1]
+ puts ingredients [3][0]
+ 
   
 end
 
