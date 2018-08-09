@@ -9,7 +9,7 @@ ingredients = [
 def sandwich_request(ingredients, order) 
   # your code here!
   
-  sandwich_request
+  sandwich_request.each do 
   
 end
 
