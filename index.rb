@@ -8,6 +8,10 @@ ingredients = [
 
 def sandwich_request(ingredients, order) 
   # your code here!
+  
+  sandwich_request.each do |ingredients|
+    puts "#{ingredients}"
+  
 end
 
 # example city_info hash
